@@ -5,6 +5,7 @@
 - 📫 How to reach me : can't reach me
 - 😄 Pronouns: mamaly
 - ⚡ Fun fact: ai is lose by ai
+- student in azad uni kashan
 
 <!---
 mamad50/mamad50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
